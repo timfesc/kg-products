@@ -1,11 +1,12 @@
+
 [
   {
     "model": "S3MFC",
     "title": "Паровой шкаф LG Styler™ S3MFC, TrueSteam™ 4 вещи",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3MFC/S3MFC_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3MFC/S3MFC_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3MFC/S3MFC_03.png"
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3MFC/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3MFC/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3MFC/3.png"
     ],
     "description": "• Забота об одежде 365 дней в году — поддерживайте вещи в идеальном состоянии круглый год.\n• Освежение — удаление запахов и легкая разглажка без стирки.\n• Гигиена — технология TrueSteam™ уничтожает до 99,9% бактерий и аллергенов.\n• Деликатная сушка — бережная сушка без деформации тканей.\n• Пресс для брюк — идеальные стрелки без утюга."
   },
@@ -13,9 +14,9 @@
     "model": "S3WER",
     "title": "Паровой шкаф LG Styler™ S3WER, TrueSteam™ 4 вещи",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3WER/S3WER_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3WER/S3WER_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S3WER/S3WER_03.png"
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3WER/1.png",
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3WER/2.png",
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S3WER/3.png"
     ],
     "description": "• Забота об одежде 365 дней в году — поддерживайте вещи в идеальном состоянии круглый год.\n• Уменьшение складок — разглаживание без утюга благодаря технологии TrueSteam™.\n• Удаление неприятных запахов — освежение одежды без стирки.\n• Деликатная сушка — бережная сушка без деформации тканей.\n• Функция создания стрелок на брюках — идеальные стрелки без лишних усилий.\n• Гигиеническая обработка — уничтожение до 99,9% бактерий и аллергенов паром."
   },
@@ -23,9 +24,9 @@
     "model": "S5BB",
     "title": "Паровой шкаф LG Styler™ S5BB, TrueSteam™ 6 вещей",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S5BB/S5BB_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S5BB/S5BB_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/built-in%20kitchen%20appliances%20png/S5BB/S5BB_03.png"
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S5BB/1.png",
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S5BB/2.png",
+        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/wm/styler/S5BB/3.png"
     ],
     "description": "• Забота об одежде 365 дней в году — поддерживайте вещи в идеальном состоянии круглый год.\n• Освежение — удаление запахов и легкая разглажка без стирки.\n• Гигиена — технология TrueSteam™ уничтожает до 99,9% бактерий и аллергенов.\n• Деликатная сушка — бережная сушка без деформации тканей.\n• Пресс для брюк — идеальные стрелки без утюга."
   }
