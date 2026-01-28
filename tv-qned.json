@@ -1,22 +1,72 @@
 [
   {
+    "model": "OLED65G5RLA",
+    "title": "LG OLED evo AI G5 4K 2025 65'",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED65G5RLA/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED65G5RLA/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED65G5RLA/3.png"
+    ],
+    "description": "• α11 AI 4K Gen2 процессору менен 4K OLED-дисплейи — өнүктүрүлгөн ЖИ иштетүүсү, ар бир пикселге чейин айкындык жана тактык.\n• Brightness Booster Ultimate — кадимки OLED-TV менен салыштырмалуу сүрөт 3 эсе жарык\n• Таза кара түс жана 100% түстү так берүү — терең өңдөр жана ар кайсы өңүттөн чындыкка коошкон түстөр\n• Dolby Atmos жана AI Sound Pro 11.1.2 менен 60 Вт көлөмдүү үн — ар бир кадрга катышуу мүмкүнчүлүгү\n• webOS 25 жана AI Magic Remote — ар бир адамга ылайыкташкан сунуштар жана акылдуу функциялар\n• Gallery Design — дубалга тыгыз жабыша турган абдан жука корпус\n• HDMI 2.1, VRR, G-Sync, FreeSync колдоосу — оюнчулар үчүн эң мыкты тандоо\n• WOW Orchestra — жогорку деңгээлдеги натыйжа үчүн үн саундбары менен шайкештирилет"
+  },
+  {
+    "model": "OLED83C5RLA",
+    "title": "LG OLED evo AI C5 4K 2025 83'",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED83C5RLA/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED83C5RLA/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED83C5RLA/3.png"
+    ],
+    "description": "• α9 AI 4K Gen8 процессору менен 4K OLED-дисплейи — кубаттуу ЖИ иштетүүсү, ар бир пикселге чейин толук айкындык жана тактык.\n• Brightness Booster — көрүүдөн укмуштуудай ырахат алуу үчүн жарыктыгы күчөтүлүп, түстөр байытылган\n• Кочкул кара түс жана түстөрдү 100% камтуусу — ар кандай өңүттөн түстөрдүн укмуштуудай так чагылдырылышы\n• Dolby Vision, HDR10, HLG жана Dolby Atmos — кинотеатр деңгээлиндеги сүрөт жана көлөмдүү үн сапаты\n• webOS 25 + AI Magic Remote — ар бир адамга ылайыкташкан сунуштар жана акылдуу функциялар\n• HDMI 2.1, VRR, G-Sync, FreeSync колдоосу — оюнчулар үчүн эң мыкты тандоо\n• WOW Orchestra — жогорку деңгээлдеги натыйжа үчүн үн саундбары менен шайкештирилет\n• Gallery Design — дубалга тыгыз жабыша турган абдан жука корпус"
+  },
+  {
+    "model": "OLED77C5RLA",
+    "title": "LG OLED evo AI C5 4K 2025 77'",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED77C5RLA/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED77C5RLA/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED77C5RLA/3.png"
+    ],
+    "description": "• α9 AI 4K Gen8 процессору менен 4K OLED-дисплейи — кубаттуу ЖИ иштетүүсү, ар бир пикселге чейин толук айкындык жана тактык.\n• Brightness Booster — көрүүдөн укмуштуудай ырахат алуу үчүн жарыктыгы күчөтүлүп, түстөр байытылган\n• Кочкул кара түс жана түстөрдү 100% камтуусу — ар кандай өңүттөн түстөрдүн укмуштуудай так чагылдырылышы\n• Dolby Vision, HDR10, HLG жана Dolby Atmos — кинотеатр деңгээлиндеги сүрөт и жана көлөмдүү үн сапаты\n• webOS 25 + AI Magic Remote — ар бир адамга ылайыкташкан сунуштар жана акылдуу функциялар\n• HDMI 2.1, VRR, G-Sync, FreeSync колдоосу — оюнчулар үчүн эң мыкты тандоо\n• WOW Orchestra — жогорку деңгээлдеги натыйжа үчүн үн саундбары менен шайкештирилет\n• Gallery Design — дубалга тыгыз жабыша турган абдан жука корпус"
+  },
+  {
+    "model": "OLED55C5RLA",
+    "title": "LG OLED evo AI C5 4K 2025 55'",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED55C5RLA/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED55C5RLA/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED55C5RLA/3.png"
+    ],
+    "description": "• α9 AI 4K Gen8 процессору менен 4K OLED-дисплейи — жакшыртылган көрүнүш, айкындык жана ар бир пикселди майда чүйдөсүнө чейин чагылдыруу\n• Brightness Booster — жарыктыктын ар кандай деңгээлдеринде жаркыраган сонун сүрөттөр\n• Кочкул кара түс жана түстөрдү 100% камтуусу — чыныгы жашоодогудай түстөр жана өңдөрдүн чексиз тереңдиги\n• Dolby Atmos жана AI Sound Pro 11.1.2 менен 40 Вт көлөмдүү үн — ар бир кадрга катышуу мүмкүнчүлүгү\n• webOS 25 жана AI Magic Remote — ар бир адамга ылайыкташтырылган сунуштар жана акылдуу функциялар\n• HDMI 2.1, VRR, G-Sync, FreeSync колдоосу — оюнчулар үчүн эң мыкты тандоо\n• WOW Orchestra — жогорку деңгээлдеги натыйжа үчүн үн саундбары менен шайкештирилет\n• Gallery Design — дубалга тыгыз жабыша турган өтө жука кооз корпус"
+  },
+  {
+    "model": "OLED48C5RLA",
+    "title": "LG OLED evo AI C5 4K 2025 48'",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED48C5RLA/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED48C5RLA/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/OLED/OLED48C5RLA/3.png"
+    ],
+    "description": "• α9 AI 4K Gen8 процессору менен 4K OLED-дисплейи — жакшыртылган көрүнүш, айкындык жана ар бир пикселди майда чүйдөсүнө чейин чагылдыруу\n• Brightness Booster — жарыктыктын ар кандай деңгээлдеринде жаркыраган сонун сүрөттөр\n• Кочкул кара түс жана түстөрдү 100% камтуусу — чыныгы жашоодогудай түстөр жана өңдөрдүн чексиз тереңдиги\n• Dolby Atmos жана AI Sound Pro 11.1.2 менен 40 Вт көлөмдүү үн — ар бир кадрга катышуу мүмкүнчүлүгү\n• webOS 25 жана AI Magic Remote — ар бир адамга ылайыкташтырылган сунуштар жана акылдуу функциялар\n• HDMI 2.1, VRR, G-Sync, FreeSync колдоосу — оюнчулар үчүн эң мыкты тандоо\n• WOW Orchestra — жогорку деңгээлдеги натыйжа үчүн үн саундбары менен шайкештирилет\n• Gallery Design — дубалга тыгыз жабыша турган өтө жука кооз корпус"
+  },
+  {
     "model": "100QNED86A6",
     "title": "QNED evo AI QNED86 4K Телевизор Smart TV 2025 100'",
     "images": [
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/1.png",
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/2.png",
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/3.png"
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/100QNED86A6/3.png"
     ],
-    "description": "• Невероятно богатая цветовая палитра от новой динамической QNED Color\n• Качество изображения 4K, улучшенная визуализация и объемный звук благодаря ИИ-процессору alpha 8 Gen2\n• Новая кнопка ИИ, голосовое управление, функции перетаскивания на пульте AI Magic Remote\n• Технология точного уменьшения света Precision Dimming обеспечивает четкое изображение и раскрывает мельчайшие детали\n• Высокое разрешение на огромном экране Ultra Big TV до 100 дюймов"
+    "description": "• Жаңы динамикалык QNED Color — чыныгы жашоодогудай өңдөр үчүн укмуштай бай түс палитрасы\n• α8 AI 4K Gen2 процессору менен 4K сапаты — жасалма интеллекттин жардамы менен жакшыртылган көрүү сапаты, тактык жана көлөмдүү үн\n• Жаңы ЖИ баскычы менен AI Magic Remote — ыңгайлуу сүйрөп баруу функциялары\n• Precision Dimming — так сүрөт и жана майда-баратына чейин көрүү үчүн жарыкты так жөндөө\n• 100\" чейин Ultra Big TV — чоң экранга терең сүңгүп кирүү"
   },
   {
     "model": "86QNED86A6A",
-    "title": "LG QNED evo AI QNED86 4K 86'",
+    "title": "LG QNED evo AI QNED86 4K 2025 86'",
     "images": [
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/1.png",
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/2.png",
-        "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/3.png"
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/1.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/2.png",
+      "https://raw.githubusercontent.com/timfesc/kg-images-website/main/tv/QNED/86QNED86A6A/3.png"
     ],
-    "description": "• Невероятно богатая цветовая палитра от новой динамической QNED Color\n• Качество изображения 4K, улучшенная визуализация и объемный звук благодаря ИИ-процессору alpha 8 Gen2\n• Новая кнопка ИИ, голосовое управление, функции перетаскивания на пульте AI Magic Remote\n• Технология точного уменьшения света Precision Dimming обеспечивает четкое изображение и раскрывает мельчайшие детали\n• Высокое разрешение на огромном экране Ultra Big TV до 100 дюймов"
+    "description": "• Динамикалык QNED Color менен укмуштай бай түс палитрасы — чыныгы жашоодогудай жана жандуу түстөр\n• α8 AI 4K Gen2 процессору менен 4K сапаттуу көрүнүш — жасалма интеллекттин жардамы менен жакшыртылган көрүү сапаты, тактык жана көлөмдүү үн\n• AI Magic Remote пультундагы жаңы ЖИ баскычы — сүйрөп баруу мүмкүнчүлүгү жана ар бир адамга ылайыкташтырылган сунуштар\n• Precision Dimming технологиясы — так сүрөт и жана майда-баратына чейин айкын көрүү үчүн жарыктын так жөндөлүшү\n• 100\" дюймга чейин Ultra Big TV — чоң экранга терең сүңгүп кирүү\n• 120 Гц жана HDMI 2.1 — оюндар жана спорт үчүн жылма сүрөт\n• Dolby Vision жана Dolby Atmos — кинотеатр деңгээлиндеги сүрөт жана үн сапаты\n• webOS 25 — акылдуу башкаруу жана сүйүктүү контентти көрүү мүмкүнчүлүгү"
   }
 ]
